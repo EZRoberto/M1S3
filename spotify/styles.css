@@ -1,0 +1,44 @@
+#flexbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+img{
+    width: 30px;
+
+}
+
+.boton-chico {
+    padding: 5px 12px;
+    border-radius: 5px;
+    
+}
+.fondo-azul {
+    background-color: rgb(46, 119,208);
+    color: white;
+}
+
+.borde-azul{
+    border: 1px solid rgb(46, 119,208);
+    color: rgb(46, 119,208);
+}
+
+.boton-grande{
+    padding: 8px 25px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    
+}
+
+.terminos{
+    color: gray;
+}
+
+.terminos a{
+    color: gray;
+}
+
+
